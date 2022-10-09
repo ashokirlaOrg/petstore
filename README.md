@@ -1,3 +1,3 @@
 # petstore
 
-## webpage
+## Updating the homepage
